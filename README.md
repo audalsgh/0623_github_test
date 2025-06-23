@@ -47,19 +47,18 @@ print("안녕하세요")
 7.github에서 보기 좋게 정리하는 구조는 #을 적극이용한다
 
 ## 1일차 내용요약
-### 구글 colab 사용법
+### - 구글 colab 사용법
 1. 런타임 유형 변경 -> T4 GPU
 
    ![image](https://github.com/user-attachments/assets/30e8abfa-d3a3-4a85-825b-386c18565fcb)
 
-파일 -> github에 사본저장
+2. 파일 -> github에 사본저장
    ![image](https://github.com/user-attachments/assets/1c65bc29-fc70-4cde-baa2-821e154ba52d)
    ![image](https://github.com/user-attachments/assets/f95321fc-3a20-4b8b-aeca-ece22ef900d8)
 
-github에서 코드를 확인할수 있다.
+3. github에서 코드를 확인할수 있다.
+   ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1)
 
-![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1)
-
-### w3schools 사이트로 파이썬 기초 공부
-2. [ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp)
+### - w3schools 사이트로 파이썬 기초 공부
+[ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp)
 
