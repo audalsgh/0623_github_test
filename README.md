@@ -17,6 +17,7 @@
 2.두번째
 
 3. 사진 드래그하여 삽입하기
+
 ![image](https://github.com/user-attachments/assets/26d7a201-9823-46b1-9586-810fcaa3291a)
 
 4. 인용문 표현하는 문법은 꺽쇠>
