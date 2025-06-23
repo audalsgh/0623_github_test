@@ -1,4 +1,4 @@
-# 앞으로 구글 colab에서 코드작성후, github에 .ipynb 파일을 저장해둘것이다.
+## 앞으로 구글 colab에서 코드작성후, github에 .ipynb 파일을 저장해둘것이다.
 
 # markdown 문법들 정리
 
