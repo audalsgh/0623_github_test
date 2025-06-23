@@ -46,7 +46,7 @@ print("안녕하세요")
 
 7.github에서 보기 좋게 정리하는 구조는 #을 적극이용한다
 
-## 1차 내용요약
+## 1일차 내용요약
 ### 구글 colab 사용법
 1. 런타임 유형 변경 -> T4 GPU
 
@@ -60,9 +60,6 @@ github에서 코드를 확인할수 있다.
 
 ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1)
 
-
-### markdown 문법들 정리
-2. https://github.com/audalsgh/0623_github_test/blob/main/README.md
 ### w3schools 사이트로 파이썬 기초 공부
-3. [ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp)
+2. [ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp)
 
