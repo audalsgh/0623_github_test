@@ -48,7 +48,8 @@ print("안녕하세요")
 
 ## 1주차 내용요약
 ### github 가입 및 구글 colab 사용법
-1. ![image](https://github.com/user-attachments/assets/44159a61-fa56-436f-95f3-2042fbd8d2ab)
+1. 파일 -> github에 사본저장
+   ![image](https://github.com/user-attachments/assets/44159a61-fa56-436f-95f3-2042fbd8d2ab)
 ### markdown 문법들 정리
 2. https://github.com/audalsgh/0623_github_test/blob/main/README.md
 ### w3schools 사이트로 파이썬 기초 공부
