@@ -6,7 +6,7 @@
 ~~취소선~~
 `코드처럼`
 
-2. 목록 만들기
+2. 목록 만들기 문법은 쩜
 ● 순서 없는 목록 만들기:
 - 항목1
 - 항목2
@@ -17,7 +17,7 @@
 2.두번째
 
 3. 사진 드래그하여 삽입하기
-![KakaoTalk_20250622_151334168_01](https://github.com/user-attachments/assets/6b1b459e-a9ad-4515-9a09-6fc3413bbd2c)
+![image](https://github.com/user-attachments/assets/26d7a201-9823-46b1-9586-810fcaa3291a)
 
 4. 인용문 표현하는 문법은 꺽쇠>
 > 인용문입니다.
