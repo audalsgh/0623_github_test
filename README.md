@@ -56,6 +56,11 @@ print("안녕하세요")
    ![image](https://github.com/user-attachments/assets/1c65bc29-fc70-4cde-baa2-821e154ba52d)
    ![image](https://github.com/user-attachments/assets/f95321fc-3a20-4b8b-aeca-ece22ef900d8)
 
+github에서 코드를 확인할수 있다.
+
+![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1)
+
+
 ### markdown 문법들 정리
 2. https://github.com/audalsgh/0623_github_test/blob/main/README.md
 ### w3schools 사이트로 파이썬 기초 공부
