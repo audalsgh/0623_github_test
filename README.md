@@ -1,1 +1,55 @@
-# 0623_github_test
+![KakaoTalk_20250622_151334168_01](https://github.com/user-attachments/assets/b2a2a50d-3eb0-4481-b06f-00706e45f12d)# 0623_github_test
+
+글자꾸미기
+**굵게**
+*기울임*
+~~취소선~~
+'코드처럼'
+
+순서 없는 목록 만들기
+-항목1
+-항목2
+ -하위항목
+
+순서 있는 목록 만들기
+1.첫번째
+2.두번째
+
+사진 드래그하여 삽입하기
+![KakaoTalk_20250622_151334168_01](https://github.com/user-attachments/assets/6b1b459e-a9ad-4515-9a09-6fc3413bbd2c)
+
+인용문
+> 인용문입니다.
+>> 중첩 인용도 가능합니다.
+
+여러줄 코드블록
+'''python
+print("안녕하세요")
+※ 위 예시에서는 백틱(```)을 사용했어요. 언어 이름을 쓰면 색이 입혀져요
+
+### 📌 표 (표 만들기)
+```md
+| 이름 | 나이 | 직업 |
+|------|------|----------|
+| 영희 | 25 | 디자이너 |
+| 철수 | 30 | 개발자 |
+
+github에서 보기 좋게 정리하는 구조
+📁 스마트팜
+├── README.md ← 프로젝트 설명
+├── images/
+│ └── farm_diagram.png
+├── docs/│ └── setup.md
+
+# 가정용 스마트팜 프로젝트 🌱
+이 프로젝트는 누구나 쉽게 따라 할 수 있는 스마트팜 만들기 가이드입니다.
+## 📷 구성도
+![스마트팜 구성도](./images/farm_diagram.png)
+## 📚 문서
+- [설치 방법](./docs/setup.md)
+- [회로 연결도](./docs/wiring.md)
+## 🛠 사용 기술
+- 아두이노
+- Jetson Orin Nano
+- Python
+- ROS2
