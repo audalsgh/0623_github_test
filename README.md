@@ -45,9 +45,10 @@ print("안녕하세요")
 ```
 
 7.github에서 보기 좋게 정리하는 구조는 #을 적극이용한다
-# 1주차 내용요약
-## github 가입 및 구글 colab 사용법
 
-## markdown 문법들 정리
+## 1주차 내용요약
+### github 가입 및 구글 colab 사용법
 
-## w3schools 사이트로 파이썬 기초 공부
+### markdown 문법들 정리
+
+### w3schools 사이트로 파이썬 기초 공부
