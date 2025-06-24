@@ -1,5 +1,5 @@
 # 1일차 내용요약
-### 앞으로 구글 colab에서 파이썬 코드작성후, github에 .ipynb 사본파일을 저장해둘것이다.
+### - 앞으로 구글 colab에서 파이썬 코드작성후, github에 .ipynb 사본파일을 저장해둘것이다.
 
 ## - w3schools 사이트로 파이썬 기초 공부
 [ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp)
