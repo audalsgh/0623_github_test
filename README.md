@@ -50,12 +50,12 @@ https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scroll
 
 2.목록 만들기 문법은 쩜
 
-● 순서 없는 목록 만들기엔 대쉬-:
+● 순서 없는 목록 만들기엔 대쉬-
 - 항목1
 - 항목2
 - 하위항목
 
-● 순서 있는 목록 만들기엔 1.:
+● 순서 있는 목록 만들기엔 1. 2. 3.
 1. 첫번째
 2. 두번째
 
