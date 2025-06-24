@@ -1,12 +1,12 @@
 ## 앞으로 구글 colab에서 파이썬 코드작성후, github에 .ipynb 사본파일을 저장해둘것이다.
 
 
-## 1일차 내용요약
+# 1일차 내용요약
 
-### - w3schools 사이트로 파이썬 기초 공부
+## - w3schools 사이트로 파이썬 기초 공부
 [ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp)
 
-### - Github에서 Repository 만들기
+## - Github에서 Repository 만들기
 
 1. **GitHub에 로그인 후 New Repository 클릭**
 2. ![new](https://github.com/user-attachments/assets/3481a680-f677-403b-be8c-1fe59d5aa7cb)
@@ -18,7 +18,7 @@
    
 ![create_repository](https://github.com/user-attachments/assets/8c2eb16b-8dfc-465a-88cd-d35770d12df0)
 
-### - 구글 colab 사용법
+## - 구글 colab 사용법
 https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5
 
 1. 런타임 유형 변경 -> T4 GPU
@@ -32,7 +32,7 @@ https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scroll
 3. github에서 코드를 확인할수 있다.
    ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1)
 
-# - markdown 문법들 정리
+## - markdown 문법들 정리
 ### 샵 갯수에 따른 폰트 사이즈 변화 3개
 #### 샵 갯수에 따른 폰트 사이즈 변화 4개
 ##### 샵 갯수에 따른 폰트 사이즈 변화 5개
