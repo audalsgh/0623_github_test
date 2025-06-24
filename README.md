@@ -7,6 +7,7 @@
 ## - Github에서 Repository 만들기
 
 1. **GitHub에 로그인 후 New Repository 클릭**
+
    ![new](https://github.com/user-attachments/assets/3481a680-f677-403b-be8c-1fe59d5aa7cb)
 
 2. **Repository 이름 입력**
