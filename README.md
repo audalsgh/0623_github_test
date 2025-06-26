@@ -1,7 +1,7 @@
 # 1일차 내용요약
 ### * 앞으로 구글 colab에서 파이썬 코드작성후, Github에 .ipynb 사본파일을 저장해둘것이다.
 
-## 📘 AI 학습 정리
+# 📘 AI 학습 정리
 ## 1. About GitHub, Markdown, Colab, w3schools
 - [GitHub 사용법](#github-사용법)
 - [Markdown 문법](#markdown-문법)  
@@ -9,6 +9,8 @@
 - [w3schools 사이트로 파이썬 기초 공부](#w3schools-사이트로-파이썬-기초-공부)
 
 ## GitHub 사용법
+https://docs.google.com/document/d/1etW42CoobXiP_YNdwbuctjVIuj2V-71Rd3cMjE9drno/edit?tab=t.0
+깃허브 샘플 만들기 문서버전
 
 ### ✅ GitHub 계정 만드는 순서 (2025년 기준)
 
@@ -107,7 +109,7 @@ print("안녕하세요")
 ## Colab 기초  
 (https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5)
 
-1.런타임 유형 변경 -> T4 GPU
+1.런타임 유형 변경 -> T4 GPU 는 매우고성능, L4 CPU 사용해도 무관
 
    ![image](https://github.com/user-attachments/assets/30e8abfa-d3a3-4a85-825b-386c18565fcb)
 
@@ -125,47 +127,45 @@ print("안녕하세요")
 
 ![image](https://github.com/user-attachments/assets/983dd1cb-e0c5-404e-ae17-96491786a340)
 
+## 2. About Python3
+- [Python basic](python3.md)
 
-## 2. 강의계획
-### 1. About Python3
-- [Python basic](./docs/python3.md)
-
-### 2. data structure / data sciencs
+## 3. data structure / data sciencs
 - [데이터 구조 개요](./data_structures.md)
 - [Pandas](./pandas.md)
 - [Numpy](./numpy.md)
 - [Matplotlib](./Matplotlib.md)
 
-### 3. Machine Learning
+## 4. Machine Learning
 - [Machine Learning Basic](./ml_basic.md)
 - [모델 훈련 및 평가](./ml_test.md)
 
-### 4. OpenCV
+## 5. OpenCV
 - [OpenCV Basic](./OpenCV_basic.md)
 - [이미지 처리](./image_test.md)
 
-### 5. CNN(Convolution Neural Network
+## 6. CNN(Convolution Neural Network
 - [CNN_Basic](./CNN_basic.md)
 - [CNN_자율주행 관련 코드](./cnn_test.md)
 
-### 6. Ultralytics
+## 7. Ultralytics
 - [Ultralytics_Basic](./Ultralytics_basic.md)
 - [YOLOv8](./YOLOv8_test.md)
 - [YOLOv12](./YOLOv12_test.md)
   
-### 7. TensorRT vs PyTorch 
+## 8. TensorRT vs PyTorch 
 - [PyTorch_Basic](./PyTorch_basic.md)
 - [TensorRT](./TensorRT_test.md)
 - [YOLOv12](./YOLOv12_test.md)
 
-### 8. TAO Toolkit on RunPod
+## 9. TAO Toolkit on RunPod
 - [TAO_사용법](.TAO_install.md)
 - [TAO_Toolkit](.TAO_Toolkit.md)
 
-### 9. 칼만필터, CARLA, 경로 알고리즘
+## 10. 칼만필터, CARLA, 경로 알고리즘
 - [kalman](.kalman.md)
 - [CARLA_simulator](.CARLA.md)
 
-### 10. ADAS & (ADAS TensorRT vs PyTorch)
+## 11. ADAS & (ADAS TensorRT vs PyTorch)
 - [adas_basic](.adas_basic.md)
 - [TensorRT vs PyTorch 비교](.vs.md)
