@@ -67,7 +67,7 @@ https://docs.google.com/document/d/1etW42CoobXiP_YNdwbuctjVIuj2V-71Rd3cMjE9drno/
 #### 샵 갯수에 따른 폰트 사이즈 변화 4개
 ##### 샵 갯수에 따른 폰트 사이즈 변화 5개
 
-2.글자꾸미기 문법들 ** * ~~ ``
+2.글자꾸미기 문법들 ** * ~~ ``<br>
 **굵게**
 *기울임*
 ~~취소선~~
