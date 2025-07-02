@@ -134,7 +134,7 @@ print("안녕하세요")
 ## 3. data structure / data sciencs
 - [데이터 구조 개요](./data_structures.md)
 - [Pandas](./pandas.md)
-- [Numpy](./numpy.md)
+- [Numpy](https://github.com/audalsgh/20250702/blob/main/0702_python_numpy.ipynb/)
 - [Matplotlib](./Matplotlib.md)
 
 ## 4. Machine Learning
